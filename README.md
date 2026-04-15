@@ -76,9 +76,10 @@ python cohere_chat.py
 7. Submit repo URL on LMS
 
 ## Screenshots
-Create `screenshots/` folder and add images:
-- ![OpenAI](screenshots/openai_output.png)
-- etc.
+![Gemini Demo](screenshots/gemini_demo.png)
+![OpenAI Error Handling](screenshots/openai_key_missing.png)
+
+(Add more after testing with keys)
 
 All requirements met: separate files, user input/response, error handling, env vars, requirements.txt, README.
 
