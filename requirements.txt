@@ -1,0 +1,8 @@
+openai
+groq
+ollama
+huggingface_hub
+google-generativeai
+cohere
+python-dotenv
+
