@@ -1,4 +1,4 @@
-# Generative AI API Integrations
+# campuspe - Generative AI API Integrations
 
 This repository fulfills the assignment for integrating multiple Generative AI APIs (OpenAI, Groq, Ollama, Hugging Face, Google Gemini, Cohere).
 
@@ -82,3 +82,6 @@ Create `screenshots/` folder and add images:
 
 All requirements met: separate files, user input/response, error handling, env vars, requirements.txt, README.
 
+=======
+# campuspe
+>>>>>>> 2bbea64785858b027415c3c099e378af4e233aa0
